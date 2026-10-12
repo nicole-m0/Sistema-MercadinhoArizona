@@ -43,7 +43,12 @@ Somente IDs e quantidades do carrinho são persistidos no localStorage. Dados de
 
 ## Organização
 
-- `src/catalog.ts`: catálogo e ilustrações SVG próprias, específicas e identificadas como demonstrativas; não são fotografias reais. Emojis variam por dispositivo.
+- `src/catalog.ts`: catálogo demonstrativo, com os mesmos 104 produtos e valores.
+- `src/product-images.ts`: associação de cada produto a um JPEG local exclusivo em `public/images/products/`.
+- `scripts/product-image-prompts.json`: prompts das imagens demonstrativas criadas com a ferramenta imagegen; aparência fotográfica, sem marcas comerciais, sem fotografias de embalagens reais copiadas.
+- `scripts/optimize-product-image.ps1`: otimização dos originais para JPEG 600 × 600, qualidade 85, fundo branco e proporção preservada. No Windows: `powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/optimize-product-image.ps1 -Source caminho-do-original.png -Destination caminho-do-produto.jpg`.
+- `scripts/preview-product-images.mjs`: gera pranchas para revisão visual em `test-results/image-review/` com `node scripts/preview-product-images.mjs` (Chrome instalado).
+- `tests/product-images.test.js` e `e2e/product-images.spec.ts`: verificam arquivos únicos, tamanho e carregamento das 104 imagens no desktop e celular. O catálogo mantém carregamento lazy.
 - `src/domain.ts`: valores em centavos, quantidades em milésimos (1000 = uma unidade ou 1 kg), validações e mensagem. Cada linha por peso é arredondada uma vez ao centavo; totais somam as linhas.
 - `src/config.ts`: ambiente, destino, entrega e aceitação de cartão.
 - `src/main.ts` e `src/style.css`: interface responsiva, carrinho, checkout e revisão. Dados são escapados antes da inserção em HTML.

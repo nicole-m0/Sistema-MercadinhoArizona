@@ -1,6 +1,25 @@
 import {test,expect} from '@playwright/test';
 import {loadEnv} from 'vite';
 const testNumber=loadEnv('development',process.cwd(),'VITE_').VITE_WHATSAPP_PEDIDOS_TESTE;
+test('erros associados aos campos, limites e aviso honesto do WhatsApp',async({page})=>{
+ await page.goto('/');await page.locator('[data-plus="p0-1"]').click();await page.locator('#cart-open').click();await page.locator('#checkout').click();
+ const submit=page.getByRole('button',{name:'Revisar e confirmar pedido'});
+ await page.locator('[name=name]').fill('123 456');await page.locator('[name=phone]').fill('abc89999999999');await submit.click();
+ await expect(page.locator('[name=name]')).toBeFocused();
+ for(const key of ['name','phone','payment']){await expect(page.locator(`[name=${key}]`)).toHaveAttribute('aria-invalid','true');await expect(page.locator(`[name=${key}]`)).toHaveAttribute('aria-describedby',`error-${key}`);await expect(page.locator(`#error-${key}`)).not.toBeEmpty();}
+ await page.locator('[name=name]').fill('Ana-Clara D’Ávila');await page.locator('[name=phone]').fill('(89) 99999-9999');await submit.click();await expect(page.locator('[name=payment]')).toBeFocused();
+ await page.locator('[name=receiving]').selectOption('delivery');
+ await expect(page.locator('[name=receiving]')).toHaveAttribute('aria-describedby','error-receiving');
+ for(const key of ['street','number','district','complement','reference'])await expect(page.locator(`[name=${key}]`)).toHaveAttribute('maxlength',key==='complement'||key==='reference'?'200':'150');
+ await page.locator('[name=payment]').selectOption('pix');await submit.click();await expect(page.locator('[name=street]')).toBeFocused();
+ await page.locator('[name=street]').fill('Rua Teste');await page.locator('[name=number]').fill('S/N');await page.locator('[name=district]').fill('Bairro Teste');await submit.click();
+ if(testNumber){
+  // Cancela a navegação externa: verifica o clique sem contatar o WhatsApp.
+  await page.locator('#send').evaluate(link=>link.addEventListener('click',event=>event.preventDefault()));
+  await page.locator('#send').click();await expect(page.locator('#send-status')).toContainText('Tentativa de abertura');await expect(page.locator('#send-status')).not.toContainText('WhatsApp aberto');
+ }
+ await page.locator('#close').click();await expect(page.locator('#cart-count')).toHaveText('1');
+});
 test('catálogo completo, persistência e checkout até revisão',async({page})=>{
  const pageErrors:string[]=[];page.on('pageerror',e=>pageErrors.push(e.message));
  await page.goto('/');await expect(page.locator('.product')).toHaveCount(24);

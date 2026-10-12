@@ -1,3 +1,4 @@
+import {productImages} from './product-images';
 export type Product = { id:string; name:string; category:string; price:number; promo?:number; unit:string; available:boolean; icon:string; color:string };
 const groups: [string,string,string,string,string[],number[]][] = [
  ['Arroz, feijão e cereais','🌾','#e4bc74','pacote',['Arroz branco 1 kg','Arroz parboilizado 1 kg','Arroz integral 1 kg','Feijão carioca 1 kg','Feijão preto 1 kg','Feijão verde 1 kg','Milho de pipoca 500 g','Aveia em flocos 170 g'],[649,699,899,849,899,1099,499,599]],
@@ -18,7 +19,5 @@ const specificIcons:Record<number,string[]>={2:['🍝','🍝','🍝','🌽','�
 export const products: Product[] = groups.flatMap(([category,icon,color,unit,names,prices],g)=> names.map((name,i)=>({id:`p${g}-${i}`,name,category,price:prices[i],promo:i===0?Math.round(prices[i]*0.85):undefined,unit:g===7&&i>=4&&i<=6?'kg':unit,available:!(g===12&&i===7),icon:specificIcons[g]?.[i]??icon,color})));
 export const categories=groups.map(g=>g[0]);
 export function illustration(p:Product){
- const label=p.name.replace(/ [0-9].*$/,'');
- const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180"><ellipse cx="120" cy="158" rx="63" ry="9" fill="#000" opacity=".07"/><rect x="66" y="22" width="108" height="130" rx="14" fill="${p.color}"/><path d="M70 33h100M70 139h100" stroke="white" stroke-opacity=".5" stroke-width="5"/><rect x="75" y="49" width="90" height="75" rx="4" fill="white" opacity=".95"/><text x="120" y="91" text-anchor="middle" font-size="34">${p.icon}</text><text x="120" y="112" text-anchor="middle" font-family="Arial" font-size="8" fill="#333">${label}</text><text x="120" y="135" text-anchor="middle" font-family="Arial" font-size="7" fill="#333">ILUSTRAÇÃO • DEMO</text></svg>`;
- return `data:image/svg+xml,${encodeURIComponent(svg)}`;
+ return productImages[p.id];
 }

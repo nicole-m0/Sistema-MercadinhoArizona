@@ -1,0 +1,626 @@
+[
+  {
+    "id": "p0-0",
+    "name": "Arroz branco 1 kg",
+    "file": "arroz-branco-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create one photorealistic supermarket catalog product photograph of a 1 kg clear sealed bag of Brazilian white long-grain rice. The rice grains must be visible and recognizable. Generic unbranded packaging with a small simple label reading ARROZ BRANCO, no invented brand. Centered single product, fully visible, white background, soft studio lighting, subtle ground shadow, generous margins, consistent professional e-commerce framing. No hands, props, watermark or logos. Save this image for use as the local product asset arroz-branco-1-kg."
+  },
+  {
+    "id": "p0-1",
+    "name": "Arroz parboilizado 1 kg",
+    "file": "arroz-parboilizado-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of golden parboiled rice. Catalog product: Arroz parboilizado 1 kg."
+  },
+  {
+    "id": "p0-2",
+    "name": "Arroz integral 1 kg",
+    "file": "arroz-integral-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of brown wholegrain rice. Catalog product: Arroz integral 1 kg."
+  },
+  {
+    "id": "p0-3",
+    "name": "Feijão carioca 1 kg",
+    "file": "feijao-carioca-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of beige pinto beans with brown stripes. Catalog product: Feijão carioca 1 kg."
+  },
+  {
+    "id": "p0-4",
+    "name": "Feijão preto 1 kg",
+    "file": "feijao-preto-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of shiny black beans. Catalog product: Feijão preto 1 kg."
+  },
+  {
+    "id": "p0-5",
+    "name": "Feijão verde 1 kg",
+    "file": "feijao-verde-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: A clear sealed 1 kg bag of SHELLED fresh Brazilian feijão verde (green cowpea beans). Only small plump pale green and cream oval BEANS with a small dark eye, already removed from pods. Absolutely NO long green bean pods, NO string beans, NO peas, NO leaves. Label Feijão verde. Realistic shelled Brazilian cowpeas."
+  },
+  {
+    "id": "p0-6",
+    "name": "Milho de pipoca 500 g",
+    "file": "milho-de-pipoca-500-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of yellow popcorn corn kernels. Catalog product: Milho de pipoca 500 g."
+  },
+  {
+    "id": "p0-7",
+    "name": "Aveia em flocos 170 g",
+    "file": "aveia-em-flocos-170-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small pouch of pale rolled oat flakes. Catalog product: Aveia em flocos 170 g."
+  },
+  {
+    "id": "p1-0",
+    "name": "Açúcar cristal 1 kg",
+    "file": "acucar-cristal-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of white crystal sugar. Catalog product: Açúcar cristal 1 kg."
+  },
+  {
+    "id": "p1-1",
+    "name": "Açúcar demerara 1 kg",
+    "file": "acucar-demerara-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: kraft bag with clear window of coarse golden demerara sugar. Catalog product: Açúcar demerara 1 kg."
+  },
+  {
+    "id": "p1-2",
+    "name": "Café torrado 250 g",
+    "file": "cafe-torrado-250-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small 250 g kraft coffee pouch with roasted coffee beans visible beside it. Catalog product: Café torrado 250 g."
+  },
+  {
+    "id": "p1-3",
+    "name": "Café moído 500 g",
+    "file": "cafe-moido-500-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 500 g dark brown coffee pouch with a small pile of finely ground roasted coffee beside it. Catalog product: Café moído 500 g."
+  },
+  {
+    "id": "p1-4",
+    "name": "Farinha de trigo 1 kg",
+    "file": "farinha-de-trigo-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: white paper bag of wheat flour, visible fine white flour and wheat detail. Catalog product: Farinha de trigo 1 kg."
+  },
+  {
+    "id": "p1-5",
+    "name": "Farinha de mandioca 1 kg",
+    "file": "farinha-de-mandioca-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of coarse off-white cassava flour. Catalog product: Farinha de mandioca 1 kg."
+  },
+  {
+    "id": "p1-6",
+    "name": "Flocão de milho 500 g",
+    "file": "flocao-de-milho-500-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear bag of coarse yellow Brazilian flocão corn flakes. Catalog product: Flocão de milho 500 g."
+  },
+  {
+    "id": "p1-7",
+    "name": "Goma de tapioca 500 g",
+    "file": "goma-de-tapioca-500-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear pouch of white moist tapioca starch granules. Catalog product: Goma de tapioca 500 g."
+  },
+  {
+    "id": "p2-0",
+    "name": "Macarrão espaguete 500 g",
+    "file": "macarrao-espaguete-500-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear long spaghetti packet, straight uncooked pasta. Catalog product: Macarrão espaguete 500 g."
+  },
+  {
+    "id": "p2-1",
+    "name": "Macarrão parafuso 500 g",
+    "file": "macarrao-parafuso-500-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear fusilli packet with uncooked spiral pasta. Catalog product: Macarrão parafuso 500 g."
+  },
+  {
+    "id": "p2-2",
+    "name": "Massa para lasanha 500 g",
+    "file": "massa-para-lasanha-500-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: A wide flat rectangular generic cardboard box with a large clear window showing uncooked flat lasagna sheets, flat pasta stacked neatly. Soft cream and muted terracotta colors. The ONLY text is MASSA PARA LASANHA. Absolutely no weight, no numbers, no brand name, no logo. Package is for a 500 g product but do not print a weight."
+  },
+  {
+    "id": "p2-3",
+    "name": "Milho verde 170 g",
+    "file": "milho-verde-170-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small opened metal can of yellow sweetcorn kernels. Catalog product: Milho verde 170 g."
+  },
+  {
+    "id": "p2-4",
+    "name": "Ervilha 170 g",
+    "file": "ervilha-170-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small opened metal can of green peas. Catalog product: Ervilha 170 g."
+  },
+  {
+    "id": "p2-5",
+    "name": "Sardinha em óleo 125 g",
+    "file": "sardinha-em-oleo-125-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small oval opened tin with whole sardines in oil. Catalog product: Sardinha em óleo 125 g."
+  },
+  {
+    "id": "p2-6",
+    "name": "Atum ralado 170 g",
+    "file": "atum-ralado-170-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small round opened tin with shredded tuna. Catalog product: Atum ralado 170 g."
+  },
+  {
+    "id": "p2-7",
+    "name": "Seleta de legumes 170 g",
+    "file": "seleta-de-legumes-170-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small opened can of diced carrots, peas and corn. Catalog product: Seleta de legumes 170 g."
+  },
+  {
+    "id": "p3-0",
+    "name": "Óleo de soja 900 ml",
+    "file": "oleo-de-soja-900-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear plastic cooking-oil bottle containing golden soybean oil, 900 ml. Catalog product: Óleo de soja 900 ml."
+  },
+  {
+    "id": "p3-1",
+    "name": "Azeite de oliva 500 ml",
+    "file": "azeite-de-oliva-500-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: dark green glass olive-oil bottle 500 ml with black cap. Catalog product: Azeite de oliva 500 ml."
+  },
+  {
+    "id": "p3-2",
+    "name": "Sal refinado 1 kg",
+    "file": "sal-refinado-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small white salt pouch 1 kg. Catalog product: Sal refinado 1 kg."
+  },
+  {
+    "id": "p3-3",
+    "name": "Molho de tomate 300 g",
+    "file": "molho-de-tomate-300-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: red tomato sauce pouch 300 g. Catalog product: Molho de tomate 300 g."
+  },
+  {
+    "id": "p3-4",
+    "name": "Extrato de tomate 300 g",
+    "file": "extrato-de-tomate-300-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: short opened metal can of thick tomato paste 300 g. Catalog product: Extrato de tomate 300 g."
+  },
+  {
+    "id": "p3-5",
+    "name": "Vinagre de álcool 750 ml",
+    "file": "vinagre-de-alcool-750-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear plastic bottle of colorless alcohol vinegar 750 ml. Catalog product: Vinagre de álcool 750 ml."
+  },
+  {
+    "id": "p3-6",
+    "name": "Tempero completo 300 g",
+    "file": "tempero-completo-300-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small transparent jar of pale Brazilian garlic and herb seasoning 300 g. Catalog product: Tempero completo 300 g."
+  },
+  {
+    "id": "p3-7",
+    "name": "Pimenta do reino 30 g",
+    "file": "pimenta-do-reino-30-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small clear spice jar with dark ground black pepper 30 g. Catalog product: Pimenta do reino 30 g."
+  },
+  {
+    "id": "p4-0",
+    "name": "Leite integral 1 L",
+    "file": "leite-integral-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: white milk carton with red accents, integral 1 L. Catalog product: Leite integral 1 L."
+  },
+  {
+    "id": "p4-1",
+    "name": "Leite desnatado 1 L",
+    "file": "leite-desnatado-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: white milk carton with blue accents, desnatado 1 L. Catalog product: Leite desnatado 1 L."
+  },
+  {
+    "id": "p4-2",
+    "name": "Leite em pó 400 g",
+    "file": "leite-em-po-400-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: yellow powdered milk pouch 400 g, small spoon of white milk powder. Catalog product: Leite em pó 400 g."
+  },
+  {
+    "id": "p4-3",
+    "name": "Leite condensado 395 g",
+    "file": "leite-condensado-395-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small opened can of thick pale sweetened condensed milk 395 g. Catalog product: Leite condensado 395 g."
+  },
+  {
+    "id": "p4-4",
+    "name": "Creme de leite 200 g",
+    "file": "creme-de-leite-200-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small cream carton 200 g. Catalog product: Creme de leite 200 g."
+  },
+  {
+    "id": "p4-5",
+    "name": "Bebida láctea 1 L",
+    "file": "bebida-lactea-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: white refrigerated dairy drink bottle 1 L. Catalog product: Bebida láctea 1 L."
+  },
+  {
+    "id": "p4-6",
+    "name": "Leite sem lactose 1 L",
+    "file": "leite-sem-lactose-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: white milk carton with purple accents, sem lactose 1 L. Catalog product: Leite sem lactose 1 L."
+  },
+  {
+    "id": "p4-7",
+    "name": "Achocolatado 400 g",
+    "file": "achocolatado-400-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: brown cocoa drink powder jar 400 g. Catalog product: Achocolatado 400 g."
+  },
+  {
+    "id": "p5-0",
+    "name": "Biscoito cream cracker 350 g",
+    "file": "biscoito-cream-cracker-350-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear sleeve of stacked rectangular cream crackers with perforations. Catalog product: Biscoito cream cracker 350 g."
+  },
+  {
+    "id": "p5-1",
+    "name": "Biscoito maisena 350 g",
+    "file": "biscoito-maisena-350-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear packet of oval golden maisena biscuits. Catalog product: Biscoito maisena 350 g."
+  },
+  {
+    "id": "p5-2",
+    "name": "Biscoito recheado chocolate 130 g",
+    "file": "biscoito-recheado-chocolate-130-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: brown packet and two chocolate sandwich cookies, visible white cream. Catalog product: Biscoito recheado chocolate 130 g."
+  },
+  {
+    "id": "p5-3",
+    "name": "Biscoito recheado morango 130 g",
+    "file": "biscoito-recheado-morango-130-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: pink packet and two strawberry sandwich cookies, pink cream. Catalog product: Biscoito recheado morango 130 g."
+  },
+  {
+    "id": "p5-4",
+    "name": "Rosquinhas de coco 300 g",
+    "file": "rosquinhas-de-coco-300-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear packet of small golden coconut ring biscuits. Catalog product: Rosquinhas de coco 300 g."
+  },
+  {
+    "id": "p5-5",
+    "name": "Chocolate ao leite 80 g",
+    "file": "chocolate-ao-leite-80-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: unwrapped segmented milk chocolate bar with plain brown wrapper. Catalog product: Chocolate ao leite 80 g."
+  },
+  {
+    "id": "p5-6",
+    "name": "Paçoca 200 g",
+    "file": "pacoca-200-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear jar of individually wrapped cylindrical crumbly peanut paçoca candies. Catalog product: Paçoca 200 g."
+  },
+  {
+    "id": "p5-7",
+    "name": "Goiabada 300 g",
+    "file": "goiabada-300-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: rectangular block of dark red guava paste in a clear tray. Catalog product: Goiabada 300 g."
+  },
+  {
+    "id": "p6-0",
+    "name": "Refrigerante cola 2 L",
+    "file": "refrigerante-cola-2-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear PET 2 liter cola bottle, dark cola, red generic label. Catalog product: Refrigerante cola 2 L."
+  },
+  {
+    "id": "p6-1",
+    "name": "Refrigerante guaraná 2 L",
+    "file": "refrigerante-guarana-2-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear PET 2 liter guarana soda bottle, pale golden liquid, green generic label. Catalog product: Refrigerante guaraná 2 L."
+  },
+  {
+    "id": "p6-2",
+    "name": "Refrigerante laranja 2 L",
+    "file": "refrigerante-laranja-2-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear PET 2 liter orange soda bottle, bright orange liquid, orange generic label. Catalog product: Refrigerante laranja 2 L."
+  },
+  {
+    "id": "p6-3",
+    "name": "Água mineral 1,5 L",
+    "file": "agua-mineral-1-5-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear 1.5 liter mineral water bottle, blue cap and plain blue label. Catalog product: Água mineral 1,5 L."
+  },
+  {
+    "id": "p6-4",
+    "name": "Água com gás 500 ml",
+    "file": "agua-com-gas-500-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small clear 500 ml sparkling water bottle, green cap, visible tiny bubbles. Catalog product: Água com gás 500 ml."
+  },
+  {
+    "id": "p6-5",
+    "name": "Suco de uva 1 L",
+    "file": "suco-de-uva-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 1 liter carton of grape juice with purple label and grape illustration. Catalog product: Suco de uva 1 L."
+  },
+  {
+    "id": "p6-6",
+    "name": "Suco de laranja 1 L",
+    "file": "suco-de-laranja-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 1 liter carton of orange juice with orange label and orange illustration. Catalog product: Suco de laranja 1 L."
+  },
+  {
+    "id": "p6-7",
+    "name": "Água de coco 1 L",
+    "file": "agua-de-coco-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 1 liter carton of coconut water with green label and coconut illustration. Catalog product: Água de coco 1 L."
+  },
+  {
+    "id": "p7-0",
+    "name": "Manteiga 200 g",
+    "file": "manteiga-200-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: short opened tub of yellow butter 200 g with pale blue sleeve. Catalog product: Manteiga 200 g."
+  },
+  {
+    "id": "p7-1",
+    "name": "Margarina 250 g",
+    "file": "margarina-250-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: wide white tub of margarine 250 g with yellow lid. Catalog product: Margarina 250 g."
+  },
+  {
+    "id": "p7-2",
+    "name": "Requeijão 200 g",
+    "file": "requeijao-200-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear short jar of creamy Brazilian requeijão cheese 200 g with blue lid. Catalog product: Requeijão 200 g."
+  },
+  {
+    "id": "p7-3",
+    "name": "Iogurte natural 170 g",
+    "file": "iogurte-natural-170-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small white opened cup of plain yogurt 170 g. Catalog product: Iogurte natural 170 g."
+  },
+  {
+    "id": "p7-4",
+    "name": "Queijo mussarela",
+    "file": "queijo-mussarela.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: pale mozzarella block with several thin slices. Catalog product: Queijo mussarela."
+  },
+  {
+    "id": "p7-5",
+    "name": "Presunto cozido",
+    "file": "presunto-cozido.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: rectangular pink cooked ham block with thin folded slices. Catalog product: Presunto cozido."
+  },
+  {
+    "id": "p7-6",
+    "name": "Queijo coalho",
+    "file": "queijo-coalho.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: Brazilian queijo coalho firm white cheese block and cubes. Catalog product: Queijo coalho."
+  },
+  {
+    "id": "p7-7",
+    "name": "Iogurte morango 900 g",
+    "file": "iogurte-morango-900-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: large 900 g white bottle of strawberry yogurt with pink cap. Catalog product: Iogurte morango 900 g."
+  },
+  {
+    "id": "p8-0",
+    "name": "Detergente neutro 500 ml",
+    "file": "detergente-neutro-500-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: transparent slender 500 ml dish detergent bottle with golden liquid and red dispensing cap. Catalog product: Detergente neutro 500 ml."
+  },
+  {
+    "id": "p8-1",
+    "name": "Água sanitária 1 L",
+    "file": "agua-sanitaria-1-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: opaque white 1 liter bleach bottle with blue handle and screw cap. Catalog product: Água sanitária 1 L."
+  },
+  {
+    "id": "p8-2",
+    "name": "Sabão em pó 800 g",
+    "file": "sabao-em-po-800-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: bright blue cardboard box of powdered laundry detergent 800 g. Catalog product: Sabão em pó 800 g."
+  },
+  {
+    "id": "p8-3",
+    "name": "Amaciante 2 L",
+    "file": "amaciante-2-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 2 liter opaque pastel blue fabric softener bottle with handle and large blue cap. Catalog product: Amaciante 2 L."
+  },
+  {
+    "id": "p8-4",
+    "name": "Desinfetante 2 L",
+    "file": "desinfetante-2-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 2 liter transparent bottle of purple floor disinfectant. Catalog product: Desinfetante 2 L."
+  },
+  {
+    "id": "p8-5",
+    "name": "Sabão em barra 5 unidades",
+    "file": "sabao-em-barra-5-unidades.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: five beige laundry soap bars in a transparent pack. Catalog product: Sabão em barra 5 unidades."
+  },
+  {
+    "id": "p8-6",
+    "name": "Esponja de cozinha 3 unidades",
+    "file": "esponja-de-cozinha-3-unidades.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: three stacked green and yellow two-layer kitchen sponges. Catalog product: Esponja de cozinha 3 unidades."
+  },
+  {
+    "id": "p8-7",
+    "name": "Limpador multiuso 500 ml",
+    "file": "limpador-multiuso-500-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 500 ml white multi-purpose cleaner bottle with a red trigger spray. Catalog product: Limpador multiuso 500 ml."
+  },
+  {
+    "id": "p9-0",
+    "name": "Sabonete 85 g",
+    "file": "sabonete-85-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: white oval soap bar with plain pale blue paper wrapper. Catalog product: Sabonete 85 g."
+  },
+  {
+    "id": "p9-1",
+    "name": "Creme dental 90 g",
+    "file": "creme-dental-90-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: white toothpaste tube with blue accents and screw cap. Catalog product: Creme dental 90 g."
+  },
+  {
+    "id": "p9-2",
+    "name": "Escova dental macia",
+    "file": "escova-dental-macia.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: single manual soft toothbrush with blue handle and fine white bristles. Catalog product: Escova dental macia."
+  },
+  {
+    "id": "p9-3",
+    "name": "Shampoo 350 ml",
+    "file": "shampoo-350-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 350 ml shampoo bottle, amber translucent with green cap. Catalog product: Shampoo 350 ml."
+  },
+  {
+    "id": "p9-4",
+    "name": "Condicionador 350 ml",
+    "file": "condicionador-350-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 350 ml opaque cream conditioner bottle with green cap. Catalog product: Condicionador 350 ml."
+  },
+  {
+    "id": "p9-5",
+    "name": "Papel higiênico 4 rolos",
+    "file": "papel-higienico-4-rolos.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: four white toilet paper rolls in transparent wrapping. Catalog product: Papel higiênico 4 rolos."
+  },
+  {
+    "id": "p9-6",
+    "name": "Desodorante 150 ml",
+    "file": "desodorante-150-ml.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 150 ml silver deodorant aerosol can with black cap. Catalog product: Desodorante 150 ml."
+  },
+  {
+    "id": "p9-7",
+    "name": "Algodão 50 g",
+    "file": "algodao-50-g.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small clear bag of white absorbent cotton balls 50 g. Catalog product: Algodão 50 g."
+  },
+  {
+    "id": "p10-0",
+    "name": "Banana prata",
+    "file": "banana-prata.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: bunch of short curved Brazilian prata bananas with yellow peels. Catalog product: Banana prata."
+  },
+  {
+    "id": "p10-1",
+    "name": "Maçã gala",
+    "file": "maca-gala.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: two fresh red and yellow Gala apples. Catalog product: Maçã gala."
+  },
+  {
+    "id": "p10-2",
+    "name": "Laranja pera",
+    "file": "laranja-pera.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: three fresh Brazilian pera oranges with textured orange peel. Catalog product: Laranja pera."
+  },
+  {
+    "id": "p10-3",
+    "name": "Mamão formosa",
+    "file": "mamao-formosa.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: elongated Brazilian formosa papaya, one half showing orange flesh and black seeds. Catalog product: Mamão formosa."
+  },
+  {
+    "id": "p10-4",
+    "name": "Tomate",
+    "file": "tomate.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: three ripe red fresh tomatoes. Catalog product: Tomate."
+  },
+  {
+    "id": "p10-5",
+    "name": "Cebola",
+    "file": "cebola.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: two golden brown onions, one halved showing layers. Catalog product: Cebola."
+  },
+  {
+    "id": "p10-6",
+    "name": "Batata inglesa",
+    "file": "batata-inglesa.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: three unpeeled light brown potatoes. Catalog product: Batata inglesa."
+  },
+  {
+    "id": "p10-7",
+    "name": "Cenoura",
+    "file": "cenoura.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: three fresh orange carrots with short green tops. Catalog product: Cenoura."
+  },
+  {
+    "id": "p11-0",
+    "name": "Peito de frango",
+    "file": "peito-de-frango.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: two raw skinless boneless chicken breast fillets, pale pink. Catalog product: Peito de frango."
+  },
+  {
+    "id": "p11-1",
+    "name": "Coxa de frango",
+    "file": "coxa-de-frango.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: two raw bone-in chicken drumsticks with skin, clearly visible leg shapes. Catalog product: Coxa de frango."
+  },
+  {
+    "id": "p11-2",
+    "name": "Carne bovina acém",
+    "file": "carne-bovina-acem.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: raw Brazilian acém beef chuck cut, red meat with modest fat and connective tissue. Catalog product: Carne bovina acém."
+  },
+  {
+    "id": "p11-3",
+    "name": "Carne moída bovina",
+    "file": "carne-moida-bovina.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small mound of raw ground beef with visible minced texture. Catalog product: Carne moída bovina."
+  },
+  {
+    "id": "p11-4",
+    "name": "Linguiça toscana",
+    "file": "linguica-toscana.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: four raw fresh Brazilian toscana pork sausage links with speckled meat visible through casing. Catalog product: Linguiça toscana."
+  },
+  {
+    "id": "p11-5",
+    "name": "Filé de tilápia",
+    "file": "file-de-tilapia.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: two raw boneless pale white-pink tilapia fillets, no whole fish. Catalog product: Filé de tilápia."
+  },
+  {
+    "id": "p11-6",
+    "name": "Costela bovina",
+    "file": "costela-bovina.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: raw bone-in beef rib slab with several clearly visible long rib bones. Catalog product: Costela bovina."
+  },
+  {
+    "id": "p11-7",
+    "name": "Bisteca suína",
+    "file": "bisteca-suina.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: two raw pork loin chops with characteristic bone and pale fat rim. Catalog product: Bisteca suína."
+  },
+  {
+    "id": "p12-0",
+    "name": "Papel toalha 2 rolos",
+    "file": "papel-toalha-2-rolos.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: two white kitchen paper towel rolls, taller than toilet paper rolls. Catalog product: Papel toalha 2 rolos."
+  },
+  {
+    "id": "p12-1",
+    "name": "Guardanapos 50 unidades",
+    "file": "guardanapos-50-unidades.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: square stack of folded white paper napkins in clear sleeve. Catalog product: Guardanapos 50 unidades."
+  },
+  {
+    "id": "p12-2",
+    "name": "Filtro de café 30 unidades",
+    "file": "filtro-de-cafe-30-unidades.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: fan of brown paper cone coffee filters and plain small box. Catalog product: Filtro de café 30 unidades."
+  },
+  {
+    "id": "p12-3",
+    "name": "Saco para lixo 30 L",
+    "file": "saco-para-lixo-30-l.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: roll of black 30 liter trash bags with one folded bag. Catalog product: Saco para lixo 30 L."
+  },
+  {
+    "id": "p12-4",
+    "name": "Papel alumínio 7,5 m",
+    "file": "papel-aluminio-7-5-m.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: small aluminum foil roll partly unrolled, silver reflective sheet and plain box. Catalog product: Papel alumínio 7,5 m."
+  },
+  {
+    "id": "p12-5",
+    "name": "Filme plástico 15 m",
+    "file": "filme-plastico-15-m.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: clear cling film roll partly unrolled, transparent sheet and plain box. Catalog product: Filme plástico 15 m."
+  },
+  {
+    "id": "p12-6",
+    "name": "Fósforos 10 caixas",
+    "file": "fosforos-10-caixas.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: ten small matchboxes neatly stacked, one open showing wooden safety matches. Catalog product: Fósforos 10 caixas."
+  },
+  {
+    "id": "p12-7",
+    "name": "Ração para cães 1 kg",
+    "file": "racao-para-caes-1-kg.jpg",
+    "prompt": "Use case: product-mockup. Create ONE photorealistic professional supermarket catalog image. White neutral seamless background, single product centered and entirely visible, soft studio light, natural subtle ground shadow, generous margins. Clean realistic materials and recognizable product type. No brand names, no commercial logos, no watermark, no people. Generic packaging appropriate to the product, never a shopping bag or generic identical pouch for everything. Packaging may show only the Portuguese product type, no advertising. Consistent ecommerce framing. This is a fictional demonstration asset, not a photograph of a real brand. Subject: 1 kg kraft pouch of brown dog kibble, small pile of kibble and simple dog silhouette label. Catalog product: Ração para cães 1 kg."
+  }
+]
