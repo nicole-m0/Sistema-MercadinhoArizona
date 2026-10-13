@@ -4,6 +4,7 @@ dist/
 .env.*.local
 .env.server
 .deploy-demo/
+.deploy-demo-previous-*/
 .vercel/
 *.log
 .npm-cache/

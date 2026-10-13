@@ -2,6 +2,32 @@
 
 Data: 12 de outubro de 2026.
 
+## Revalidação e novo deploy — 13 de outubro de 2026
+
+A etapa demonstrativa já estava implementada. Foi gerado e publicado novamente
+o mesmo frontend estático, sem alterações na arquitetura ou nas funcionalidades.
+Deploy `dpl_FnZAXNfrnYA1Yx1HcEYbtJ7THW1P`, estado `READY`, mantendo a URL abaixo.
+
+A conta foi consultada novamente pela CLI/API: Hobby ativo. As regras oficiais
+foram verificadas em https://vercel.com/docs/limits/fair-use-guidelines.
+O enquadramento considera o uso pessoal não comercial de demonstração e testes
+solicitado; não constitui autorização individual da Vercel. Publicidade de vendas
+ou remuneração pela criação/hospedagem exigem reavaliação. Nenhum plano pago foi
+contratado e nenhum pedido foi enviado.
+
+Verificações desta execução: lint e typecheck aprovados, 28 testes unitários,
+10 testes de interface local, 4 testes do pacote estático local e 4 testes na URL
+pública aprovados. Build `build:demo` aprovado. Uma primeira execução dos testes
+públicos coincidiu com a movimentação da pasta de deploy e falhou ao carregar uma
+imagem; a execução completa após a preparação passou, assim como a execução remota.
+
+Auditoria do envio: 108 arquivos, 3.624.156 bytes, sem fontes, endpoints,
+ambientes privados ou telefone pessoal conhecido. Os 107 arquivos servidos foram
+comparados por SHA-256 com o build, incluindo as 104 imagens. Rotas privadas e
+administrativas retornaram 404, e os cabeçalhos demonstrativos foram confirmados.
+O pacote anterior foi preservado localmente em `.deploy-demo-previous-20261013/`,
+ignorado pelo Git. O WhatsApp local permanece disponível com `npm run dev`.
+
 ## Endereço público
 
 **https://mercadinho-arizona-demo.vercel.app**
