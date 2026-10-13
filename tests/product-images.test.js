@@ -5,6 +5,20 @@ import {products,illustration} from '../src/catalog';
 import {productImages} from '../src/product-images';
 
 describe('Imagens locais do catálogo',()=>{
+ it('oferece 104 WebP mais leves e preserva os JPEGs para fallback',()=>{
+  const names=readdirSync('public/images/products').filter(file=>file.endsWith('.webp'));
+  expect(names).toHaveLength(104);
+  let jpegBytes=0;let webpBytes=0;
+  for(const product of products){
+   const original=readFileSync(`public${illustration(product)}`);
+   const optimized=readFileSync(`public${illustration(product).replace(/\.jpg$/,'.webp')}`);
+   expect(optimized.subarray(0,4).toString()).toBe('RIFF');
+   expect(optimized.subarray(8,12).toString()).toBe('WEBP');
+   expect(optimized.length).toBeLessThan(original.length);
+   jpegBytes+=original.length;webpBytes+=optimized.length;
+  }
+  expect(webpBytes).toBeLessThan(jpegBytes*.7);
+ });
  it('associa todos os 104 produtos a arquivos locais distintos',()=>{
   expect(Object.keys(productImages)).toHaveLength(104);
   expect(new Set(products.map(illustration)).size).toBe(104);

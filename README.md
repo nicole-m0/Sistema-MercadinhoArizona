@@ -4,11 +4,23 @@ Demonstração pública: https://mercadinho-arizona-demo.vercel.app
 Publicada apenas como frontend estático, sem número pessoal e com WhatsApp
 desabilitado. Veja [o relatório de publicação](docs/relatorio-publicacao-demonstrativa.md).
 
+Refinamentos visuais preparados localmente, ainda sem atualização da Vercel:
+[relatório e validação](docs/relatorio-refinamentos-visuais.md).
+Para revisar a demonstração com envio bloqueado, execute `npm run build:demo`
+e `node scripts/serve-public-demo.mjs`; abra http://127.0.0.1:5175.
+Esse servidor lê `dist/` e não publica arquivos.
+
 Versão pública demonstrativa: `npm run build:demo` gera `dist/` com o WhatsApp
 desabilitado e sem o número pessoal. O teste local permanece com `npm run dev`.
 Para auditar e preparar somente os arquivos estáticos: `node scripts/prepare-public-demo.mjs`.
 O script exige uma pasta `.deploy-demo/` vazia ou inexistente para evitar arquivos antigos.
-Teste do pacote preparado: `npx playwright test --config playwright.demo.config.ts`.
+Teste do build demonstrativo local: `npx playwright test --config playwright.demo.config.ts`.
+
+Os testes demonstrativos agora servem diretamente o build de `dist/`.
+Auditoria sem copiar arquivos nem publicar: `node scripts/prepare-public-demo.mjs --audit-only`.
+Os 104 JPEGs originais permanecem como fallback de 104 WebP locais, derivados
+com `node scripts/optimize-webp.mjs` (Chrome instalado). As fontes DM Sans e
+Outfit são locais em `public/fonts/`, com as licenças OFL no mesmo diretório.
 
 Arquivos da preparação administrativa estão preservados apenas como histórico:
 [arquitetura e limites da etapa suspensa](docs/admin-stage-1.md). Esta versão usa
@@ -70,7 +82,7 @@ Somente IDs e quantidades do carrinho são persistidos no localStorage. Dados de
 - `src/main.ts` e `src/style.css`: interface responsiva, carrinho, checkout e revisão. Dados são escapados antes da inserção em HTML.
 - `tests/domain.test.ts`: testes de cálculos, validação, indisponibilidade, persistência e destino do WhatsApp.
 
-Horário/endereço transcritos da referência: Rua 1, nº 31, Bairro Arizona, Oeiras–PI; seg. a sáb. 6h30–19h30, dom. 7h–13h. Confirmar antes de operação real. A marca é uma composição textual inspirada na referência com símbolo de carrinho; substituir pelo arquivo oficial da logo futuramente. Fontes Google opcionais têm fallback local.
+Horário/endereço transcritos da referência: Rua 1, nº 31, Bairro Arizona, Oeiras–PI; seg. a sáb. 6h30–19h30, dom. 7h–13h. Confirmar antes de operação real. A marca é uma composição textual inspirada na referência com símbolo de carrinho; substituir pelo arquivo oficial da logo futuramente. Fontes locais com fallback para Arial e sans-serif, sem chamadas ao Google Fonts.
 
 Ainda validar no seu aparelho: layout, teclado, acessibilidade, entrega/retirada, destino e mensagem no WhatsApp. Testar também cesta extensa: links longos dependem do navegador e do WhatsApp. Não há confirmação automática de recebimento, registro de pedidos ou estoque em tempo real.
 

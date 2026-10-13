@@ -8,7 +8,7 @@ const base = new URL(process.argv[2]);
 assert.equal(base.protocol, 'https:');
 const allFiles = directory => readdirSync(directory, {withFileTypes: true}).flatMap(entry => entry.isDirectory() ? allFiles(join(directory, entry.name)) : [join(directory, entry.name)]);
 const files = allFiles('dist');
-assert.equal(files.length, 107);
+assert.equal(files.length, 215);
 const hash = bytes => createHash('sha256').update(bytes).digest('hex');
 let next = 0;
 await Promise.all(Array.from({length: 8}, async () => {
@@ -29,5 +29,5 @@ assert.equal(response.status, 200);
 assert.equal(response.headers.get('x-content-type-options'), 'nosniff');
 assert.equal(response.headers.get('referrer-policy'), 'no-referrer');
 assert.equal(response.headers.get('x-robots-tag'), 'noindex, nofollow');
-console.log('Publicação verificada sem autenticação: 107 arquivos iguais ao build (SHA-256), incluindo as 104 imagens.');
+console.log('Publicação verificada sem autenticação: 215 arquivos iguais ao build (SHA-256), incluindo as 104 imagens.');
 console.log('API/admin/arquivos privados: HTTP 404. Cabeçalhos de demonstração e privacidade confirmados.');

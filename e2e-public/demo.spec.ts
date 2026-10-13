@@ -43,7 +43,7 @@ test('artefato público preserva imagens, pesquisa e categorias e não serve API
   for (let i = 0; i < 104; i++) {
     const image = images.nth(i);
     await image.scrollIntoViewIfNeeded();
-    await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.complete && element.naturalWidth === 600 && element.naturalHeight === 600)).toBe(true);
+    await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.complete && element.naturalWidth === 600 && element.naturalHeight === 600 && element.currentSrc.endsWith('.webp'))).toBe(true);
   }
   for (const path of ['/api/status', '/admin', '/.env.local', '/server/auth.ts', '/supabase/seeds/catalog.sql']) {
     expect((await request.get(path)).status()).toBe(404);
