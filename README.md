@@ -1,6 +1,22 @@
 # Mercadinho Arizona — catálogo de demonstração
 
-Primeira etapa local: TypeScript + Vite, 104 produtos fictícios, 13 categorias, busca sem acentos, filtros, ofertas e carregamento progressivo. Sem banco, autenticação, pagamento online ou deploy.
+Demonstração pública: https://mercadinho-arizona-demo.vercel.app
+Publicada apenas como frontend estático, sem número pessoal e com WhatsApp
+desabilitado. Veja [o relatório de publicação](docs/relatorio-publicacao-demonstrativa.md).
+
+Versão pública demonstrativa: `npm run build:demo` gera `dist/` com o WhatsApp
+desabilitado e sem o número pessoal. O teste local permanece com `npm run dev`.
+Para auditar e preparar somente os arquivos estáticos: `node scripts/prepare-public-demo.mjs`.
+O script exige uma pasta `.deploy-demo/` vazia ou inexistente para evitar arquivos antigos.
+Teste do pacote preparado: `npx playwright test --config playwright.demo.config.ts`.
+
+Arquivos da preparação administrativa estão preservados apenas como histórico:
+[arquitetura e limites da etapa suspensa](docs/admin-stage-1.md). Esta versão usa
+o catálogo original e imagens locais, sem Supabase, Cloudinary ou painel.
+
+TypeScript + Vite, 104 produtos fictícios, 13 categorias, busca sem acentos,
+filtros, ofertas e carregamento progressivo. Sem banco, autenticação ou pagamento
+online. A publicação existente é exclusivamente demonstrativa.
 
 ## Executar
 
@@ -60,5 +76,9 @@ Ainda validar no seu aparelho: layout, teclado, acessibilidade, entrega/retirada
 
 ## Produção bloqueada
 
-Sem publicação nesta etapa. Após seus testes e autorização explícita: confirmar produtos, fotos, preços, estoque, logo, horário, endereço, entrega e pagamentos; cadastrar número oficial; revisar segurança, acessibilidade e dispositivos móveis; preparar Vercel. Os avisos demonstrativos só podem ser removidos com dados reais confirmados.
+A publicação demonstrativa não habilita operação comercial: o site público mantém
+avisos fictícios e não abre o WhatsApp. Uma versão comercial exige autorização
+explícita e confirmação de produtos, fotos, preços, estoque, logo, horário,
+endereço, entrega e pagamentos, além do número oficial e plano de hospedagem
+compatível. Os avisos demonstrativos só podem ser removidos com dados reais confirmados.
 
