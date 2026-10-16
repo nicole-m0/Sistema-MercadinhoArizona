@@ -6,20 +6,23 @@ import {join} from 'node:path';
 import {loadEnv} from 'vite';
 
 const allFiles = directory => readdirSync(directory, {withFileTypes: true}).flatMap(entry => entry.isDirectory() ? allFiles(join(directory, entry.name)) : [join(directory, entry.name)]);
-const files = allFiles('dist');
+const commercial = process.argv.includes('--commercial');
+assert.ok(!commercial || process.argv.includes('--audit-only'), 'Preparação de pacote comercial bloqueada nesta etapa. Use somente --audit-only --commercial.');
+const buildDirectory = commercial ? 'dist-commercial' : 'dist';
+const files = allFiles(buildDirectory);
 assert.equal(files.length, 215, 'Build deve conter HTML, CSS, JS, 104 JPEGs, 104 WebP, duas fontes e suas licenças');
 assert.ok(files.every(path => /\.(html|css|js|jpg|webp|woff2)$/.test(path) || /fonts[\\/](dm-sans|outfit)-OFL\.txt$/.test(path)), 'Arquivo inesperado no build');
 const hash = path => createHash('sha256').update(readFileSync(path)).digest('hex');
 const originalImages = readdirSync('public/images/products').filter(name => name.endsWith('.jpg'));
 assert.equal(originalImages.length, 104);
-for (const name of originalImages) assert.equal(hash(`public/images/products/${name}`), hash(`dist/images/products/${name}`));
+for (const name of originalImages) assert.equal(hash(`public/images/products/${name}`), hash(`${buildDirectory}/images/products/${name}`));
 
 const webpImages = readdirSync('public/images/products').filter(name => name.endsWith('.webp'));
 assert.equal(webpImages.length, 104);
-for (const name of webpImages) assert.equal(hash('public/images/products/' + name), hash('dist/images/products/' + name));
+for (const name of webpImages) assert.equal(hash('public/images/products/' + name), hash(buildDirectory + '/images/products/' + name));
 const fonts = readdirSync('public/fonts');
 assert.deepEqual(fonts.sort(), ['dm-sans-OFL.txt', 'dm-sans-latin.woff2', 'outfit-OFL.txt', 'outfit-latin.woff2']);
-for (const name of fonts) assert.equal(hash('public/fonts/' + name), hash('dist/fonts/' + name));
+for (const name of fonts) assert.equal(hash('public/fonts/' + name), hash(buildDirectory + '/fonts/' + name));
 
 const text = files.filter(path => /\.(html|css|js)$/.test(path)).map(path => readFileSync(path, 'utf8')).join('\n');
 assert.doesNotMatch(text, /SUPABASE_|CLOUDINARY_|supabase\.co|api\.cloudinary\.com|-----BEGIN .*PRIVATE KEY-----/);

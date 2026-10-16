@@ -3,7 +3,9 @@ import {createServer} from 'node:http';
 import {existsSync, readFileSync, statSync} from 'node:fs';
 import {extname, resolve, sep} from 'node:path';
 
-const root = resolve('dist');
+const commercial = process.argv.includes('--commercial');
+const root = resolve(commercial ? 'dist-commercial' : 'dist');
+const port = commercial ? 5176 : 5175;
 const types = {'.html':'text/html; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.css':'text/css; charset=utf-8', '.jpg':'image/jpeg', '.webp':'image/webp', '.woff2':'font/woff2', '.txt':'text/plain; charset=utf-8'};
 createServer((request, response) => {
   try {
@@ -17,4 +19,4 @@ createServer((request, response) => {
   } catch {
     response.writeHead(400); response.end();
   }
-}).listen(5175, '127.0.0.1', () => console.log('Artefato demonstrativo: http://127.0.0.1:5175'));
+}).listen(port, '127.0.0.1', () => console.log(`Artefato local com pedidos comerciais bloqueados: http://127.0.0.1:${port}`));
